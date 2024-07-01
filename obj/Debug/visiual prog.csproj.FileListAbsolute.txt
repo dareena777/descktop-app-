@@ -1,0 +1,18 @@
+C:\Users\Dareen\source\repos\visiual prog\bin\Debug\visiual prog.exe.config
+C:\Users\Dareen\source\repos\visiual prog\bin\Debug\visiual prog.exe
+C:\Users\Dareen\source\repos\visiual prog\bin\Debug\visiual prog.pdb
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual prog.csproj.AssemblyReference.cache
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual_prog.Form2.resources
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual_prog.Form3.resources
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual_prog.Form4.resources
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual_prog.Form5.resources
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual_prog.Form6.resources
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual_prog.Properties.Resources.resources
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual prog.csproj.GenerateResource.cache
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual prog.csproj.CoreCompileInputs.cache
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual prog.exe
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual prog.pdb
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual_prog.Form7.resources
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual_prog.Form8.resources
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual_prog.Form9.resources
+C:\Users\Dareen\source\repos\visiual prog\obj\Debug\visiual_prog.Form1.resources
